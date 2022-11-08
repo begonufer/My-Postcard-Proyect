@@ -53,6 +53,7 @@ button {
 	background-color: darkgrey;
 	font-family: "Kalam", cursive;
 	padding: 4px;
+	border: none;
 }
 
 p {
